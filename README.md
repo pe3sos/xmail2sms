@@ -1,4 +1,5 @@
 XMAIL2SMS
+
 Raspberry PI
 
 1.Trimitem un mail cu nr. de tel in subject la o anumita adresa, iar aplicatia va trimite  sms la nr respectiv.
