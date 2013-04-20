@@ -1,10 +1,27 @@
-XMAIL2SMS
-
-Raspberry PI
-
-
-1.Trimitem un mail cu nr. de tel in subject la o anumita adresa, iar aplicatia va trimite  sms la nr respectiv.
-
-2.Configuram baza de date de trimitere a sms-urilor cu o anumita ocazie: Craciun, Paste, etc. SMS Newsletter.
-
-3.Suntem informati prin sms cu subiectul mailului si o parte a continutului mesajului prin sms: referitor la un anumit mail primit, URGENT MAIL FROM BOSS.
+ 
+ 
+         Raspberry PI - two way sms gateway
+ (Alex Averian, Costel Pislac, Petre Sosa, Sergiu Gaina)
+             Hackathon 2013 Bucuresti
+ 
+ 
+ Ideea principala:
+ - server puternic si economic - specializat pe servicii sms
+ 
+ Tipuri de utilizare:
+ 
+- web (desktop,laptop,smartphone,etc) -> sms
+- mail (format special) -> sms
+- sms -> mail
+ 
+ Domenii in care este util:
+ web registration, web notification, web and home alarms (pompieri, furt, etc), sms advertising, home and enterprise automation (prin sms)
+ 
+ 
+ Proiect realizabil cu minim de cunostinte !
+ 
+ 
+ 
+ Idee geniala de business !
+ 
+ 
