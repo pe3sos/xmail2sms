@@ -1,0 +1,31 @@
+
+
+         Raspberry PI - two way sms gateway
+ (Alex Averian, Costel Pislac, Petre Sosa, Sergiu Gaina)
+             Hackathon 2013 Bucuresti
+
+ 
+ prescurtare: rpi = Raspberry PI
+ 
+ 
+ Necesitati:
+ 
+ - 1 rpi versiunea A sau B ! (OS Linux)
+ - 1 modem aka stick, (telefon provizoriu doar) (orange, vodafone, etc)
+ - software client (c/c++, c#, java, etc) si server corect instalat si configurat (smstools, php5, python, sqlite, mysql)
+ - diversi clienti (pentru windows, linux, web, etc)
+ 
+ 
+ Clientii software pot fi scrisi in orice limbaj, pot folosi unul sau mai multe fire de executie, pot trimite sms-uri cu unul sau mai multi destinatari, se pot folosi mai multe modemuri (modemul Orange va trimite catre destinatarii Orange, cel Vodafone va trimite catre destinatarii Vodafone, etc), sms-urile (7bit aka gsm alphabet sau 8bit aka ansi encoding) vehiculate pot fi mentinute intr-o baza de date
+
+ 
+ Timp de implementare maxim 1 zi lucratoare la prima configurare a serverului apoi maxim 1 ora pt fiecare clona
+ 
+ 
+ Povesti de succes: Google Calendar, Facebook check registration, 
+ infobip.com  etc etc
+ 
+ 
+ 
+ Idee geniala de business !
+ 
