@@ -4,7 +4,7 @@
  (Alex Averian, Costel Pislac, Petre Sosa, Sergiu Gaina)
          Raspberry PI - two way sms gateway
 =========================================================================== 
- 
+
   I.IDEEA PRINCIPALA:
   -----------------------------
 
