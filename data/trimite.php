@@ -17,6 +17,7 @@ $message =  str_replace('\r\n',"\r\n",$message);
 $telefoane = explode('\r\n',$telefoane);
 
 foreach($telefoane as $telefon){
+
 $telefon = trim($telefon);
 $text = "To:".$telefon."\n";
 $text .= "Alphabet:ISO\n";
