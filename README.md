@@ -1,22 +1,22 @@
  
 ===========================================================================
-         Raspberry PI - two way sms gateway
- (Alex Averian, Costel Pislac, Petre Sosa, Sergiu Gaina)
              Hackathon 2013 Bucuresti
+ (Alex Averian, Costel Pislac, Petre Sosa, Sergiu Gaina)
+         Raspberry PI - two way sms gateway
 =========================================================================== 
  
- I.IDEEA PRINCIPALA:
- -----------------------------
+  I.IDEEA PRINCIPALA:
+  -----------------------------
 
- - server puternic si economic - specializat pe servicii sms
- - campanie de marketing si disemninare a anumitor evenimente
- 
-II.TIPURI DE UTILIZARE:
------------------------------
- 
-- web (desktop,laptop,smartphone,etc) -> sms
-- mail (format special) -> sms
-- sms -> mail
+  - server puternic si economic - specializat pe servicii sms
+  - campanie de marketing si disemninare a anumitor evenimente
+
+  II.TIPURI DE UTILIZARE:
+  -----------------------------
+
+  - web (desktop,laptop,smartphone,etc) -> sms
+  - mail (format special) -> sms
+  - sms -> mail
 
  III.DOMENII IN CARE ESTE UTIL:
  -----------------------------
