@@ -8,7 +8,7 @@
 
   I.IDEEA PRINCIPALA:
   -----------------------------
-
+  
   - server puternic si economic - specializat pe servicii sms
   - campanie de marketing si disemninare a anumitor evenimente
 
