@@ -20,16 +20,9 @@
  web registration, web notification, web and home alarms (pompieri, furt, etc), sms advertising, home and enterprise automation (prin sms)
  
  Pe viitor:
-  Conectare senzori de lumina,temperatura,etc la anumite cazuri(critice) se pot trimite SMS-uri si receptiona pentru o anumita actiune/comanda.
-  
-  
-  
- 
+  Conectare senzori de lumina,temperatura,etc la anumite cazuri(critice) se pot trimite SMS-uri si receptiona pentru o anumita actiune/comanda.  
  
  Proiect realizabil cu minim de cunostinte !
- 
- 
- 
+  
  Idee geniala de business !
- 
  
